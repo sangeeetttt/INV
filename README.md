@@ -13,6 +13,7 @@ Then a new login window pops up. There we can login to the System by putting our
 ![image](https://user-images.githubusercontent.com/82662886/134920060-ecf60dc6-e88b-464a-bc58-4c18b13fc5a8.png)
 
 This is the Home page of the program.
+
 ![image](https://user-images.githubusercontent.com/82662886/134921647-1a85ace4-8f08-4530-95e5-ecb08d456754.png)
 
 ![image](https://user-images.githubusercontent.com/82662886/134921703-7d466b2f-2d32-4ab2-849c-d7fb51cafc64.png)
